@@ -1,6 +1,6 @@
 # EC2AutoScaling_with_Spot-Instances
 
-[ASG.png](https://github.com/developer-onizuka/Diagrams/blob/main/EC2AutoScaling_with_Spot-Instances/ASG.png)
+![ASG.png](https://github.com/developer-onizuka/Diagrams/blob/main/EC2AutoScaling_with_Spot-Instances/ASG.png)
 
 
 
